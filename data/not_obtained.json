@@ -1,0 +1,29 @@
+[
+  {
+    "id": "10.1109/ICDMW69685.2025.00011",
+    "title": "Privatar: A Privacy-Preserving Framework for LLM Agents",
+    "year": 2025,
+    "url": "https://doi.org/10.1109/ICDMW69685.2025.00011",
+    "exclusion_rule": "E5",
+    "reason": "No open English full text was available, so the study was not coded.",
+    "venue": "IEEE ICDM Workshops"
+  },
+  {
+    "id": "10.1145/3772363.3798860",
+    "title": "Your Permission Leaks My Data: Second-Hand Privacy Harms in LLM Agents",
+    "year": 2026,
+    "url": "https://doi.org/10.1145/3772363.3798860",
+    "exclusion_rule": "E5",
+    "reason": "No open English full text was available, so the study was not coded.",
+    "venue": "CHI Extended Abstracts"
+  },
+  {
+    "id": "10.1109/percomworkshops68308.2026.11585450",
+    "title": "Privacy Leakage in Small Agentic Healthcare Models: An Empirical Analysis",
+    "year": 2026,
+    "url": "https://doi.org/10.1109/percomworkshops68308.2026.11585450",
+    "exclusion_rule": "E5",
+    "reason": "No open English full text was available, so the study was not coded.",
+    "venue": "IEEE PerCom Workshops"
+  }
+]
